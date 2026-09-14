@@ -1,8 +1,8 @@
 ## Multimodal Deep Ensembles for the Semantic Analysis of Earth Observation Imagery
-My Bachelors Thesis at TU-Berlin: 
+My Bachelors Thesis at TU-Berlin: [Here's the pdf](https://github.com/damnkunze/Thesis_Multimodal-Deep-Ensembles_Semantic-Analysis_Earth-Observation-Imagery/blob/main/Thesis.pdf)
 
 
-### Installation guide:
+### Installation guide: 
 
 ```
 conda create -n ba_venv6 python=3.11 -y
